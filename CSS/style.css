@@ -1,0 +1,148 @@
+body {
+    background-color: #fa1a1a;
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+}
+h1{
+  font-size: 200%;
+}
+h2 {
+  font-size: 200%;
+}
+h3{
+  font-size: 200%;
+}
+h4 {
+  font-size: 200%;
+}
+p{
+  font-size: 150%;
+}
+li {
+  font-size: 150%;
+}
+
+/* Navbar */
+   nav ul li {
+    display: inline-block;
+    list-style: none;
+    }
+
+    nav ul li a{
+      text-decoration: none;
+      color:red;
+      padding: 20px 20px 20px 20px;
+    }
+
+    nav ul li a:hover{
+      color: cyan;
+      transition: 0.5s;
+    }
+
+    .navbar{
+      position: fixed;
+        line-height: 5px;
+        width: 100%;
+       height: 30px;
+       background: black;
+       text-transform: uppercase;
+    }
+   /* Images */
+    .resize2{
+      width: 400px;
+      height: auto;
+      background-color: black;
+      border-radius: 50%;
+      transition: 0.5s ease;
+      }
+
+      .resize3{
+        width: 400px;
+        height: auto;
+        border-radius: 50%;
+      }
+
+      .resize4{
+        width: 400px;
+        height: auto;
+        border-radius: 50%;
+      }
+
+      .resize{
+        width: 400px;
+        height: auto;
+        background-color: black;
+        border-radius: 50%;
+        transition: 0.5s ease;
+      }
+
+      .resize:hover{
+        background-color: lightblue;
+        transition: 0.5s;
+      }
+
+      /* Footer socials*/
+
+      .footer-col .social-links a {
+        display: inline-block;
+        height: 60px;
+        width: 60px;
+        color: #4169E1;
+        background-color:black;
+        line-height: 60px;
+        border-radius: 50%;
+        transition: all 0.25s ease;
+        padding: 25px 25px;
+      }
+
+      .footer-col .social-links a:hover{
+        color: gray;
+        background-color:lightblue;
+      }
+
+      /* The horizontal black lines */
+
+      hr{
+        padding: 15px;
+        background-color: black;
+      }
+
+      /* The box for the ul and ol elements */
+
+      .box{
+        width: 500px;
+        padding: 10px;
+        border: 5px solid black;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      /* sign up form */
+
+      .sg-form{
+        width: 500px;
+        border: 5px solid black;
+        padding: 20 px;
+        margin: 8% auto 0;
+        text-align: center;
+      }
+
+      .input-box{
+        border-radius: 20px;
+        padding: 10px;
+        margin: 10px 0;
+        width: 80%;
+        border: 1px solid #999;
+        outline: none;
+      }
+      button{
+        width: 80%;
+        padding: 10px;
+        border-radius: 20px;
+        font-size: 15px;
+        margin: 10px 0;
+        border: none;
+        outline: none;
+        cursor: pointer;
+      }
