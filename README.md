@@ -109,6 +109,13 @@ Everything looks good except for one thing that i will show in the images below.
 
 When i check the responsiveness the website looks like this:
 
+![image](https://user-images.githubusercontent.com/95103308/144765166-e91c7a37-fc15-472e-a536-d997397c6753.png)
+
+And after i refresh the page it looks normal like this:
+
+![image](https://user-images.githubusercontent.com/95103308/144765260-3cb93c1b-d5bf-439b-b5ed-7644ef600185.png)
+
+I couldnt figure out how to fix this I tried using media queries but I couldn't get It to work.
 
 ##  Deployment
 
