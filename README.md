@@ -137,9 +137,19 @@ Only bug I have is the one with the responsiveness that i explained in the "Test
 
 ### html
 
+![image](https://user-images.githubusercontent.com/95103308/144766499-db063f25-715d-4638-a5cb-c944368ce25f.png)
+
+Nothing wrong was detected.
+
 ### css
 
+![image](https://user-images.githubusercontent.com/95103308/144766537-4182d293-bfce-41c7-8d9d-2a666a30570c.png)
+
+I don't understand what's wrong and i don't know were to lok any insight with this would be appreciated.
+
 ### Lighthouse
+
+![image](https://user-images.githubusercontent.com/95103308/144766590-7c8878ce-32ac-4224-89f0-8a5870c6b41d.png)
 
 
 ## credits
