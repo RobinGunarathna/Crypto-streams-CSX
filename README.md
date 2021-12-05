@@ -48,13 +48,21 @@ You can't press on the navbar to get to the first section of the website.
 
 Pretty self explanatory. On this section there's information on what features to expect and iformation about the token tokenomics.
 
+![image](https://user-images.githubusercontent.com/95103308/144764395-9b4c4bc0-cf69-421d-8ff2-712f32f6732c.png)
+
+
 #### The third section (Invest)
 
 On this section there's a guide on how to invest in our token with a image of the pancakeswaps logo with a hover effect that you can press on that will take you to the pancakeswap website.
 
+![image](https://user-images.githubusercontent.com/95103308/144764469-67984604-442c-46f9-8897-b545c784b3ea.png)
+
+
 #### The fourth section (sign up)
 
 On this section there's a simple sign up form that takes you to the second page after you sign up.
+
+![image](https://user-images.githubusercontent.com/95103308/144764540-8e532d13-b097-46bb-942f-708801f80680.png)
 
 #### The footer (social links)
 
@@ -62,6 +70,7 @@ The footer is located right under the sign up form.
 
 There are a image links to twitter and instagram.
 
+![image](https://user-images.githubusercontent.com/95103308/144764574-d2192e58-a115-4066-b43f-211bee52a741.png)
 
 
 ## future features
