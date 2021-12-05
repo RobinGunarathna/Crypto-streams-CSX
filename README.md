@@ -135,6 +135,11 @@ Only bug I have is the one with the responsiveness that i explained in the "Test
 
 ## Validator testing and lighthouse
 
+### html
+
+### css
+
+## Lighthouse
 
 
 ## credits
