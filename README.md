@@ -19,19 +19,46 @@ There is also a sign up form on the website for those who want to have an accoun
 
 This website is a 2 page website with 4 sections on the main page.
 
-The second page is the page you come till after you sign up with a thank you message and navbar that can only redirect you to the main page.
-
 ### The 4 sections
 
 #### The first section (header and marketing)
 
+This what the user will se first when the user comes to the website.
 
+The navbar is on the top of the website.
 
-### Navigation
+The logo is right under the navbar.
 
-In the top of the website above the logo there's a simple navbar that is fixed so it moves with you while you move up and down.
+Under the logo there is a image you can click on that will take you to DEXTools to check the live price of our token.
+
+And under the DEXTools image there's some advertisement.
+
+#### Navigation
 
 The navbar helps the user to navigatet easily through 3 of the 4 sections on the website.
+
+The navbar is fixed so it moves up and down with the user.
+
+You can't press on the navbar to get to the first section of the website.
+
+#### The second section (Plans)
+
+Pretty self explanatory. On this section there's information on what features to expect and iformation about the token tokenomics.
+
+#### The third section (Invest)
+
+On this section there's a guide on how to invest in our token with a image of the pancakeswaps logo with a hover effect that you can press on that will take you to the pancakeswap website.
+
+#### The fourth section (sign up)
+
+On this section there's a simple sign up form that takes you to the second page after you sign up.
+
+#### The footer (social links)
+
+The footer is located right under the sign up form.
+
+There are a image links to twitter and instagram.
+
 
 
 ## future features
