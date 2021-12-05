@@ -99,11 +99,16 @@ Text font from google fonts link: https://fonts.google.com/specimen/Anton#standa
 
 for the color scheme i wanted to have a red and black theme on the website but i don't think it looks that good for now so alot will probably change when it comes to that.
 
-## wireframes
-
-##  Technology
-
 ## testing
+
+I tested that this website works in: Google chrome, Microsoft edge and google chrome on my phone.
+
+I tested this websites responsiveness using devtools device toolbar.
+
+Everything looks good except for one thing that i will show in the images below.
+
+When i check the responsiveness the website looks like this:
+
 
 ##  Deployment
 
