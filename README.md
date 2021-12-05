@@ -33,6 +33,9 @@ Under the logo there is a image you can click on that will take you to DEXTools 
 
 And under the DEXTools image there's some advertisement.
 
+![image](https://user-images.githubusercontent.com/95103308/144764287-23b3e9a1-4b4d-4b48-8b3d-d28c2462bb6f.png)
+
+
 #### Navigation
 
 The navbar helps the user to navigatet easily through 3 of the 4 sections on the website.
