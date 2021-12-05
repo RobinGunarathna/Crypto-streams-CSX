@@ -13,14 +13,26 @@ There is also a guide on how to invest in our crypto token for those who want to
 
 There is also a sign up form on the website for those who want to have an account ready for when we go live.
 
+
+
 ## Features
-There are not many features right now on the website.
 
-There are links to DEXTools, pancakeswap and our socials links on the website right now.
+This website is a 2 page website with 4 sections on the main page.
 
-On DEXTools you can track the price of our token.
+The second page is the page you come till after you sign up with a thank you message and navbar that can only redirect you to the main page.
 
- For those who want to can buy the Token on pancakeswap.
+### The 4 sections
+
+#### The first section (header and marketing)
+
+
+
+### Navigation
+
+In the top of the website above the logo there's a simple navbar that is fixed so it moves with you while you move up and down.
+
+The navbar helps the user to navigatet easily through 3 of the 4 sections on the website.
+
 
 ## future features
 
