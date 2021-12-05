@@ -153,3 +153,19 @@ I don't understand what's wrong and i don't know were to lok any insight with th
 
 
 ## credits
+
+Created the logo on: https://logomakr.com/
+
+Youtube video that helped me create the sign up form: https://www.youtube.com/watch?v=lacpTQuE9u8
+
+Youtube video that helped me create the footer: https://www.youtube.com/watch?v=4JQ3q0LVqEI
+
+Google font: https://fonts.google.com/specimen/Anton
+
+DEXTools image: https://www.google.com/search?q=dextools+png+image&tbm=isch&ved=2ahUKEwjXu8io3830AhWDxioKHblXBaUQ2-cCegQIABAA&oq=dexto&gs_lcp=CgNpbWcQARgAMgcIIxDvAxAnMgUIABCABDIFCAAQgAQyBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB46BAgAEBM6CAgAELEDEIMBOggIABCABBCxAzoECAAQQzoECAAQA1DwA1j1DmDFF2gAcAB4AIABS4gBgAOSAQE2mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=DEKtYdeFGoONqwG5r5WoCg&bih=969&biw=1920&rlz=1C1BYYL_svSE955SE955#imgrc=_BkHzknCKA6bGM
+
+coin market cap image: https://www.google.com/search?q=coin+market+cap+logo&rlz=1C1BYYL_svSE955SE955&sxsrf=AOaemvJ6OGFXfrTYRLfTWU25KcjsPKNATg:1638744586507&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiP59Kn3830AhXWCRAIHW4aCq8Q_AUoAXoECAEQAw&biw=1920&bih=969&dpr=1#imgrc=5WUbuuyyyDXbWM
+
+Coin gecko image: https://www.google.com/search?q=coin+gecko+logo+png&tbm=isch&ved=2ahUKEwjauKjH3830AhV3BxAIHckfDiUQ2-cCegQIABAA&oq=coin+gec&gs_lcp=CgNpbWcQARgAMgcIIxDvAxAnMgQIABATMgQIABATMgQIABATMgQIABATMgQIABATOggIABCABBCxAzoFCAAQgAQ6BAgAEEM6BAgAEAM6CAgAELEDEIMBOgQIABAeUKoHWOkTYNAaaABwAHgAgAFEiAHCBJIBATmYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=TEKtYdriN_eOwPAPyb-4qAI&bih=969&biw=1920&rlz=1C1BYYL_svSE955SE955#imgrc=6SOLznv8L1k3SM
+
+pancakeswap image: https://www.pngall.com/pancakeswap-crypto-png
