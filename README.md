@@ -6,6 +6,10 @@ Crypto Streams goal is to become one of the leading streaming platforms!
 
 Website: [Crypto Streams](https://robingunarathna.github.io/Crypto-streams-CSX/)
 
+![image](https://user-images.githubusercontent.com/95103308/144767575-c9e61cac-c499-4eaa-b68c-c214399ea91c.png)
+
+![image](https://user-images.githubusercontent.com/95103308/144767600-ef2c06b4-df53-4595-88c1-571c33a19ce8.png)
+
 ## Purpose of the project
 On this teaser website people will be able to read about the project and what's to come.
 
