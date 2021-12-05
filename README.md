@@ -139,7 +139,7 @@ Only bug I have is the one with the responsiveness that i explained in the "Test
 
 ### css
 
-## Lighthouse
+### Lighthouse
 
 
 ## credits
