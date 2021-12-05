@@ -99,7 +99,7 @@ Text font from google fonts link: https://fonts.google.com/specimen/Anton#standa
 
 for the color scheme i wanted to have a red and black theme on the website but i don't think it looks that good for now so alot will probably change when it comes to that.
 
-## testing
+## Testing
 
 I tested that this website works in: Google chrome, Microsoft edge and google chrome on my phone.
 
@@ -117,6 +117,24 @@ And after i refresh the page it looks normal like this:
 
 I couldnt figure out how to fix this I tried using media queries but I couldn't get It to work.
 
+I tested everything so it's readable and easy to understand. For the most part I think this is true but I think the background color and text could be better.
+
+I think it looks a bit bad Because the background color is red.
+
+Lighthouse explains it in the best way: "Background and foreground colors do not have a sufficient contrast ratio."
+
 ##  Deployment
+
+I deployed the website with github-pages.
+
+I had to change the main page file name to index.html so it loads up correctly.
+
+## Bugs
+
+Only bug I have is the one with the responsiveness that i explained in the "Testing" section of the readme.
+
+## Validator testing and lighthouse
+
+
 
 ## credits
