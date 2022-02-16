@@ -1,7 +1,14 @@
 body {
-  background-color: #B33030;
   font-family: 'Anton', sans-serif;
   text-align: center;
+}
+
+h1 {
+  color: red;
+}
+
+h2 {
+  color: red;
 }
 
 p {
@@ -150,7 +157,7 @@ hr {
   border-radius: 1.25em;
   font-size: 0.9375em;
   margin: 0.625em 0;
-  border: none;
+  border: 0.0625 solid #999;
   outline: none;
   cursor: pointer;
 }
