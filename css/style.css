@@ -40,6 +40,8 @@ nav ul li a:hover {
   position: fixed;
   line-height: 0.3125em;
   width: 100%;
+  left: 0;
+  top: 0;
   height: 1.875em;
   background: black;
   text-transform: uppercase;
