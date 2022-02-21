@@ -63,6 +63,11 @@ nav ul li a:hover {
   transition: 0.5s;
 }
 
+/* logo */
+.logo {
+  padding-top: 1.5em;
+}
+
 /* Images */
 .resize2 {
   width: 25em;
@@ -123,6 +128,12 @@ hr {
   background-color: black;
 }
 
+.horizontal-line{
+  width: 100%;
+  border-top: 1px solid #9E9E9E;
+  border-bottom: 1px solid #9E9E9E;
+}
+
 /* The box for the ul and ol elements */
 
 .box {
@@ -162,4 +173,39 @@ hr {
   border: 0.0625 solid #999;
   outline: none;
   cursor: pointer;
+}
+
+@media all and (max-width: 600px) {
+  .box {
+    width: 51.25em;
+    padding: 0.625em;
+    border: 0.3125em solid black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .box2 {
+    width: 51.25em;
+    padding: 0.625em;
+    border: 0.3125em solid black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .sg-form {
+    width: 51.25em;
+    border: 0.3125em solid black;
+    padding: 0.625em;
+    margin: 8% auto 0;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+
+  hr {
+    padding: 0.9375em;
+  background-color: white;
+  }
 }
