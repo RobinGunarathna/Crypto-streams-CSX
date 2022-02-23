@@ -188,7 +188,7 @@ hr {
   .box2 {
     width: 51.25em;
     padding: 0.625em;
-    border: 0.3125em solid black;
+    border: 0.3125em solid transparent;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -206,6 +206,6 @@ hr {
 
   hr {
     padding: 0.9375em;
-  background-color: white;
+  background-color: transparent;
   }
 }
