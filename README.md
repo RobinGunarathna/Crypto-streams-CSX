@@ -6,9 +6,7 @@ Crypto Streams goal is to become one of the leading streaming platforms!
 
 Website: [Crypto Streams](https://robingunarathna.github.io/Crypto-streams-CSX/)
 
-![image](https://user-images.githubusercontent.com/95103308/144767575-c9e61cac-c499-4eaa-b68c-c214399ea91c.png)
 
-![image](https://user-images.githubusercontent.com/95103308/144767600-ef2c06b4-df53-4595-88c1-571c33a19ce8.png)
 
 ## Purpose of the project
 On this teaser website people will be able to read about the project and what's to come.
@@ -133,7 +131,8 @@ I deployed the website with github-pages.
 
 1. I had to change the main page file name to index.html so it loads up correctly.
 2. In the Github repository. I navigated to the settings tab.
-3. From the source drop-down menu I selected the master branch
+3. From the source drop-down menu I selected the master branch.
+4. After I selected the master branch I waited a minute or two and got the deployed working link.
 ## Bugs
 
 Only bug I have is the one with the responsiveness that i explained in the "Testing" section of the readme.
