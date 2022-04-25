@@ -33,7 +33,7 @@ nav ul li a:hover {
 .navbar {
   position: fixed;
   line-height: 0.3125em;
-  width: 100vw;
+  width: 100%;
   left: 0;
   top: 0;
   height: 1.875em;
@@ -118,13 +118,13 @@ nav ul li a:hover {
 /* The horizontal black lines */
 
 hr {
-  width: 100%;
+  width: 0.1em;
   padding: 0.9375em;
-  background-color: black;
+  background-color: transparent;
 }
 
 .horizontal-line {
-  width: 100%;
+  width: 0.1em;
   border-top: 1px solid #9E9E9E;
   border-bottom: 1px solid #9E9E9E;
 }
@@ -192,14 +192,7 @@ hr {
     border: 0.3125em solid black;
     display: block;
   }
-
-  .box2 {
-    width: 100vw;
-    padding: 0.625em;
-    border: 0.3125em transparent;
-    display: block;
-  }
-
+  
   .sg-form {
     width: 100vw;
     padding: 0.625em;

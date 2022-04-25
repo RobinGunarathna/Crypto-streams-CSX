@@ -131,8 +131,9 @@ Lighthouse explains it in the best way: "Background and foreground colors do not
 
 I deployed the website with github-pages.
 
-I had to change the main page file name to index.html so it loads up correctly.
-
+1. I had to change the main page file name to index.html so it loads up correctly.
+2. In the Github repository. I navigated to the settings tab.
+3. From the source drop-down menu I selected the master branch
 ## Bugs
 
 Only bug I have is the one with the responsiveness that i explained in the "Testing" section of the readme.
