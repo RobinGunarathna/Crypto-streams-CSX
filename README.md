@@ -135,6 +135,9 @@ I managed to sort the most of it thanks to the lovely tutors but I can't find th
 when I look at it with unicorn I can see that there is something that is going beyond the width of the smaller device sizes but it's not clear what it is.
 I've managed to sort allmost all of it but from what i can see in unicorn it should be 2-3 elements that goes beyond the smaller width sizes.
 
+I just noticed another bug.
+the dextools image does not load on github pages but it loads everything when I run a server in gitpod.
+I've checked and all the files are were they should be.
 
 ## Validator testing and lighthouse
 
