@@ -1,6 +1,6 @@
 # Crypto Streams teaser website!
 
-This is a teaser website for Crypto Streams!!
+This is a teaser website for Crypto Streams!
 
 Crypto Streams goal is to become one of the leading streaming platforms!
 
