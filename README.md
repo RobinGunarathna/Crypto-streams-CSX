@@ -74,6 +74,11 @@ There are a image links to twitter and instagram.
 
 ![image](https://user-images.githubusercontent.com/95103308/165189418-ae4a2e04-719f-4061-94d5-cb89019c139b.png)
 
+#### The second page (sign up page)
+The page you get to after you sign up. The navbar takes you back to the main page.
+
+![image](https://user-images.githubusercontent.com/95103308/165193572-44c95ef3-c484-4f11-9594-1a236187341e.png)
+
 
 ## future features
 
