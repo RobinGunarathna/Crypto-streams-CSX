@@ -135,6 +135,7 @@ I managed to sort the most of it thanks to the lovely tutors but I can't find th
 when I look at it with unicorn I can see that there is something that is going beyond the width of the smaller device sizes but it's not clear what it is.
 I've managed to sort allmost all of it but from what i can see in unicorn it should be 2-3 elements that goes beyond the smaller width sizes.
 
+
 ## Validator testing and lighthouse
 
 ### html
