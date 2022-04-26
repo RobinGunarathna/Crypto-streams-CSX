@@ -6,7 +6,7 @@ Crypto Streams goal is to become one of the leading streaming platforms!
 
 Website: [Crypto Streams](https://robingunarathna.github.io/Crypto-streams-CSX/)
 
-
+![am responsive](https://user-images.githubusercontent.com/95103308/165186645-e94bc6e6-b4d0-4574-9f85-f0313c3d3a4f.jpg)
 
 ## Purpose of the project
 On this teaser website people will be able to read about the project and what's to come.
@@ -35,7 +35,7 @@ Under the logo there is a image you can click on that will take you to DEXTools 
 
 And under the DEXTools image there's some advertisement.
 
-![image](https://user-images.githubusercontent.com/95103308/144764287-23b3e9a1-4b4d-4b48-8b3d-d28c2462bb6f.png)
+![image](https://user-images.githubusercontent.com/95103308/165188029-39bdac49-6af9-47e0-9e19-09a6fdfb2acd.png)
 
 
 #### Navigation
@@ -46,25 +46,25 @@ The navbar is fixed so it moves up and down with the user.
 
 You can't press on the navbar to get to the first section of the website.
 
+![image](https://user-images.githubusercontent.com/95103308/165188089-6ce64e09-8309-475d-8e35-8207cae1df93.png)
+
 #### The second section (Plans)
 
 Pretty self explanatory. On this section there's information on what features to expect and iformation about the token tokenomics.
 
-![image](https://user-images.githubusercontent.com/95103308/144764395-9b4c4bc0-cf69-421d-8ff2-712f32f6732c.png)
-
+![image](https://user-images.githubusercontent.com/95103308/165188266-97b4ba30-7358-434b-94f2-348fe06b53e0.png)
 
 #### The third section (Invest)
 
 On this section there's a guide on how to invest in our token with a image of the pancakeswaps logo with a hover effect that you can press on that will take you to the pancakeswap website.
 
-![image](https://user-images.githubusercontent.com/95103308/144764469-67984604-442c-46f9-8897-b545c784b3ea.png)
-
+![image](https://user-images.githubusercontent.com/95103308/165188965-401486df-2734-4dba-b352-ad2da3cf6ce1.png)
 
 #### The fourth section (sign up)
 
 On this section there's a simple sign up form that takes you to the second page after you sign up.
 
-![image](https://user-images.githubusercontent.com/95103308/144764540-8e532d13-b097-46bb-942f-708801f80680.png)
+![image](https://user-images.githubusercontent.com/95103308/165189192-91124623-243f-4fb2-bc30-9dc12f9e2d8e.png)
 
 #### The footer (social links)
 
@@ -72,7 +72,12 @@ The footer is located right under the sign up form.
 
 There are a image links to twitter and instagram.
 
-![image](https://user-images.githubusercontent.com/95103308/144764574-d2192e58-a115-4066-b43f-211bee52a741.png)
+![image](https://user-images.githubusercontent.com/95103308/165189418-ae4a2e04-719f-4061-94d5-cb89019c139b.png)
+
+#### The second page (sign up page)
+The page you get to after you sign up. The navbar takes you back to the main page.
+
+![image](https://user-images.githubusercontent.com/95103308/165193572-44c95ef3-c484-4f11-9594-1a236187341e.png)
 
 
 ## future features
@@ -99,7 +104,8 @@ Tournaments hosted by us for streamers on our platform
 
 Text font from google fonts link: https://fonts.google.com/specimen/Anton#standard-styles
 
-for the color scheme i wanted to have a red and black theme on the website but i don't think it looks that good for now so alot will probably change when it comes to that.
+for the color scheme i started with red and black theme on the website but it did not look so good.
+I changed the color scheme to white, red and black. I still think that it does not look good but it looks a bit better atleast.
 
 ## Testing
 
@@ -107,23 +113,8 @@ I tested that this website works in: Google chrome, Microsoft edge and google ch
 
 I tested this websites responsiveness using devtools device toolbar.
 
-Everything looks good except for one thing that i will show in the images below.
-
-When i check the responsiveness the website looks like this:
-
-![image](https://user-images.githubusercontent.com/95103308/144765166-e91c7a37-fc15-472e-a536-d997397c6753.png)
-
-And after i refresh the page it looks normal like this:
-
-![image](https://user-images.githubusercontent.com/95103308/144765260-3cb93c1b-d5bf-439b-b5ed-7644ef600185.png)
-
-I couldnt figure out how to fix this I tried using media queries but I couldn't get It to work.
-
-I tested everything so it's readable and easy to understand. For the most part I think this is true but I think the background color and text could be better.
-
-I think it looks a bit bad Because the background color is red.
-
-Lighthouse explains it in the best way: "Background and foreground colors do not have a sufficient contrast ratio."
+Everything looks good except for one thing. the website is allmost fully responsive it's just a small thing that i can't figure out no matter what.
+There is still something that goes beyond the width of smaller devices so you can scroll a little bit left and right.
 
 ##  Deployment
 
@@ -133,27 +124,34 @@ I deployed the website with github-pages.
 2. In the Github repository. I navigated to the settings tab.
 3. From the source drop-down menu I selected the master branch.
 4. After I selected the master branch I waited a minute or two and got the deployed working link.
+
 ## Bugs
 
 Only bug I have is the one with the responsiveness that i explained in the "Testing" section of the readme.
+I've asced for help in slack, tutor assistance atleast twice just about this, my mentor, youtube and google.
+No matter what I've done i havent been able to fully fix it.
+Last time i asked about this from tutor assistance it allmost got fixed they told me to use the extension unicorn to see what's causing this.
+I managed to sort the most of it thanks to the lovely tutors but I can't find the last things that are causing this responsiveness issue.
+when I look at it with unicorn I can see that there is something that is going beyond the width of the smaller device sizes but it's not clear what it is.
+I've managed to sort allmost all of it but from what i can see in unicorn it should be 2-3 elements that goes beyond the smaller width sizes.
 
 ## Validator testing and lighthouse
 
 ### html
 
-![image](https://user-images.githubusercontent.com/95103308/144766499-db063f25-715d-4638-a5cb-c944368ce25f.png)
+![image](https://user-images.githubusercontent.com/95103308/165192013-0797046b-112d-425e-9328-9b47c29b6d83.png)
 
 Nothing wrong was detected.
 
 ### css
 
-![image](https://user-images.githubusercontent.com/95103308/144766537-4182d293-bfce-41c7-8d9d-2a666a30570c.png)
+![image](https://user-images.githubusercontent.com/95103308/165192078-bf0f4ca8-16ee-41a1-8b70-e950300647d7.png)
 
-I don't understand what's wrong and i don't know were to lok any insight with this would be appreciated.
+I don't understand what's wrong and i don't know were to look any insight with this would be appreciated.
 
 ### Lighthouse
 
-![image](https://user-images.githubusercontent.com/95103308/144766590-7c8878ce-32ac-4224-89f0-8a5870c6b41d.png)
+![image](https://user-images.githubusercontent.com/95103308/165192206-b7ccfc40-8ace-48cb-bce5-01ff199e51d4.png)
 
 
 ## credits
