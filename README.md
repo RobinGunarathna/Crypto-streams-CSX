@@ -1,3 +1,5 @@
+First coding project ever. Be nice LMAO!
+
 # Crypto Streams teaser website!
 
 This is a teaser website for Crypto Streams!
